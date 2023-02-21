@@ -1,0 +1,76 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.VG{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.cont1{
+    display: flex;
+    justify-content: center;
+    margin: 5rem 5rem 5rem 5rem;
+}
+.cont2{
+    display: flex;
+    justify-content: center;
+    margin: 5rem 10rem 5rem 6rem;
+}
+.cont3{
+    display: flex;
+    justify-content: center;
+    margin: 5rem 5rem 5rem 10rem;
+}
+.subcont1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 2rem 0 2rem;
+    width: 70%;
+}
+.subcont2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 2rem 0 2rem;
+    width: 70%;
+    padding-right: 3rem;
+}
+.subcont3{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 2rem 0 2rem;
+}
+.subcont4{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 2rem 0 2rem;
+    width: 70%;
+    padding-right: 3rem;
+}
+.textspecial{
+    display:flex ;
+    text-align: end;
+}
+.TC{
+    color: #4BD1A0;
+    font-size: 30px;
+}
+.TC2{
+    color: #B6AC95;
+    font-size: 30px;
+}
+.TT{
+    font-size: 12px;
+}
+.Tt{
+    font-size: 8px;
+    text-align: center;
+}
+.CS{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0.5rem 0 0;
+}
